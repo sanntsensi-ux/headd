@@ -1,0 +1,38 @@
+RESOLUTION VIP V22 — GUIA DE PUBLICACAO MAIS SIMPLES
+
+Esta pasta ja e um site completo. Nao precisa instalar Node.js, VS Code ou configurar GitHub.
+
+1. Abra https://dash.cloudflare.com no navegador moderno (ou Safari do iPhone).
+2. Faca login na Cloudflare.
+3. Procure Workers & Pages > Create application > Pages > Direct Upload / Upload assets.
+4. Nomeie seu projeto (exemplo: resolution-vip-santx).
+5. Envie o arquivo ZIP de publicacao que acompanha este projeto, ou arraste os arquivos desta pasta.
+6. Clique em Deploy site e copie seu endereco terminado em .pages.dev.
+7. Abra o endereco e teste RESOLUCAO e HEAD. Quando ativar a key, o site precisa estar em HTTPS.
+8. No Safari do iPhone: Compartilhar > Adicionar a Tela de Inicio. Se houver a opcao Abrir como App da Web, ative.
+
+COMO USAR O CONTEUDO:
+- index.html: aplicativo completo (HTML, CSS e JavaScript)
+- manifest.webmanifest: nome e comportamento do app instalado
+- icons/: imagens da Tela de Inicio, favicon e icon sizes
+- LEIA-PRIMEIRO.txt: resumo da versao
+
+PLANOS:
+SEASON: R$ 12,90 (30 dias contados no navegador)
+PERMANENTE: R$ 22,90 (sem expiracao automatica)
+Ambos os botoes ADQUIRIR abrem o canal de resgate no Discord:
+https://discord.com/channels/1355313641997467708/1574535988582027264
+O cliente precisa ter acesso a esse servidor e ao canal.
+
+KEYS:
+- Esta versao utiliza as 40 keys locais existentes (20 Season + 20 Permanente).
+- A lista privada das keys NAO esta neste ZIP publico: nao envie aos clientes.
+- A verificacao local nao impede reutilizacao da mesma key em outro aparelho.
+- Os 30 dias sao salvos no navegador e podem ser contornados; para licencas pagas seguras, implante o Worker/D1.
+- O modulo de injeção e uma interface de configuracao visual; nao altera resolucao fisica, touch ou mira do Free Fire.
+
+BOTAO COLAR:
+- Em HTTPS, o botao ao lado da key tenta ler a area de transferencia.
+- Caso o navegador nao permita, o cliente pode tocar no campo e usar Colar manualmente.
+
+NUNCA publique o arquivo JSON com as chaves completas em um site publico.

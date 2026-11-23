@@ -1,0 +1,11 @@
+RESOLUTION VIP V22
+
+Mudanças desta versão:
+- Preço SEASON: R$ 12,90
+- Preço PERMANENTE: R$ 22,90
+- Botões dos planos abrem o canal de resgate no Discord
+- Área da key com botão de colar personalizado
+- Ícones PWA mantidos para a tela inicial
+
+Canal de resgate:
+https://discord.com/channels/1355313641997467708/1574535988582027264
